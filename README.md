@@ -1,8 +1,8 @@
-PetStopApplication is a web application for animal products using Onion Architecture. The application includes the following features:
+PetStopApplication is a web application for products for animals using Onion Architecture. The application includes the following features:
 
 -User login.
 
--All CRUD operations (Add, Edit, Delete) related to animal products.
+-All CRUD operations (Add, Edit, Delete) related to products.
 
 -View to the all available products.
 
